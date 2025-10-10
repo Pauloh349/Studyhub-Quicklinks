@@ -33,5 +33,40 @@
 "name": "EUNCCU",
     "link": "https://eunccu.org/",
     "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/eunccu.webp"
+  },
+  {
+    "name": "Students Portal",
+    "link": "https://studentportal.egerton.ac.ke",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/portal.webp"
+  },
+  {
+    "name": "Egerton Website",
+    "link": "https://www.egerton.ac.ke",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/egerton-website.webp"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "https://chat.openai.com",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/chat-gpt.webp"
+  },
+  {
+    "name": "DeepSeek",
+    "link": "https://chat.deepseek.com",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/deepseek.webp"
+  },
+  {
+    "name": "Gemini",
+    "link": "https://gemini.google.com",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/gemini.webp"
+  },
+  {
+    "name": "EUCOSSA",
+    "link": "https://www.eucossa.com/home",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/eucossa.webp"
+  },
+  {
+"name": "EUNCCU",
+    "link": "https://eunccu.org/",
+    "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/eunccu.webp"
   }
 ]
