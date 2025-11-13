@@ -53,5 +53,10 @@
     "name":"W3Schools",
     "link":"https://www.w3schools.com/",
     "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/w3schools.webp"
+  },
+  {
+    "name":"Point Tech",
+    "link":"https://www.tpointtech.com/",
+    "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/point-tech.webp"
   }
 ]
