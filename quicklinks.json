@@ -58,5 +58,10 @@
     "name":"HELB Portal",
     "link":"https://portal.hef.co.ke/auth/signin",
     "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/helb.webp"
+  },
+  {
+    "name":"WordB Game",
+    "link":"https://wordb.fun/",
+    "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/wordb.webp"
   }
 ]
