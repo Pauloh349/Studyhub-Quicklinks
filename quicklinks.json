@@ -40,15 +40,16 @@
     "image": "https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/eunccu.webp"
   },
   {
-    "name":"Quick reference",
-    "link":"https://quickref.me/",
-    "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/quickref.webp"
-  },
-   {
     "name":"EUSDA",
     "link":"https://eusda.co.ke/",
     "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/eusda.webp"
   },
+  {
+    "name":"Quick reference",
+    "link":"https://quickref.me/",
+    "image":"https://raw.githubusercontent.com/Pauloh349/Studyhub-Quicklinks/main/quickref.webp"
+  },
+   
    {
     "name":"W3Schools",
     "link":"https://www.w3schools.com/",
